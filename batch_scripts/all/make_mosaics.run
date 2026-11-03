@@ -1,0 +1,8 @@
+# epoch 1
+strun image3_fullceers.asdf epoch1_f115w_final.json
+strun image3_fullceers.asdf epoch1_f150w_final.json
+strun image3_fullceers.asdf epoch1_f200w_final.json
+strun image3_fullceers.asdf epoch1_f277w_final.json
+strun image3_fullceers.asdf epoch1_f356w_final.json
+strun image3_fullceers.asdf epoch1_f410m_final.json
+strun image3_fullceers.asdf epoch1_f444w_final.json
