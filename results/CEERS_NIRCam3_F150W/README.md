@@ -265,9 +265,7 @@ Run identifier: `dr05_py39_jwst172_crds0989`. The final source directories are `
 
 The final FITS mosaic, raw exposures, intermediate FITS files, calibration cache, and Python environment remain with the reduction package. This results folder provides the figures, numerical summaries, and explanations for review.
 
-## Remaining work
 
-The computational reduction and comparison are complete. The remaining guide tasks are to review the figures and comparison with Brenjit and prepare the requested 2–3 page write-up in my own words. This README documents the completed work and the meaning of the figures; it does not record those review discussions as completed.
 
 ## References and credits
 
